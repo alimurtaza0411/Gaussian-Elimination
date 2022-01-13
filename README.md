@@ -1,0 +1,2 @@
+# Gaussian-Elimination
+Gaussian  elimination  is  an  algorithm  for  solving  a system of linear equations. The equations are represented in the form  of  a  matrix  which  consists  of  coefficients  of  the  unknowns and the right hand side of the linear equations respectively. Given the nature and complexity of the Gaussian elimination algorithm, parallelization  is  one  such  optimization  which  can  be  used  to improve  the  efficiency  of  the  algorithm. 
